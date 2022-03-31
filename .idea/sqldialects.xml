@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$USER_HOME$/Desktop/kodem/kodem-db/dbpatches/dbpatch.20220323-org-profile-and-employment-verification/dbpatch.20220323.sanjeev.sql" dialect="MySQL" />
+    <file url="file://$USER_HOME$/Desktop/kodem/kodem-db/dbpatches/dbpatch.20220329/dbpatch.20220329.gopi" dialect="MySQL" />
+  </component>
+</project>
